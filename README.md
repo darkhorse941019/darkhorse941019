@@ -13,7 +13,7 @@
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+      <br><b>React</b>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -23,7 +23,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+      <br><b>JavaScript</b>
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
@@ -60,11 +60,11 @@
     </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
+      <br><b>Git</b>
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
+      <br><b>Laravel</b>
     </td>
     <td align="center"  width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="HTML5" />
@@ -80,7 +80,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
+      <br><b>Tailwind</b>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
@@ -94,8 +94,7 @@
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
+      <br><b>Nodejs</b>
       </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
@@ -103,7 +102,7 @@
     </td>
             <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="VsCode" />
-      <br>Nuxt.js
+      <br><b>Nuxt.js</b>
     </td>
               <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="WordPress" />
@@ -111,7 +110,7 @@
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
+      <br><b>Vue</b>
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
@@ -145,7 +144,7 @@
     </td>
               <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="WordPress" />
-      <br>Express.js
+      <br><b>Express.js</b>
     </td>
               <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="48" height="48" alt="Vue" />
@@ -157,11 +156,11 @@
     </td>
               <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="MySQL" />
-      <br>Heroku
+      <br><b>Heroku</b>
     </td>
     <td align="center" width="96">
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="PostgreSQL" />
-      <br>Next.js
+      <br><b>Next.js</b>
     </td>
  </tr>
 </table>
