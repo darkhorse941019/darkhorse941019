@@ -1,4 +1,4 @@
-<h1 align="center">Senior Full Stack Engineer Guo XiaoFeng</h1>
+<h1 align="center">Senior Full Stack Engineer</h1>
 <h3 align="center">Experienced web/mobile full-stack developer with a proven track record of delivering high-quality, scalable applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukpoex&label=Profile%20views&color=0e75b6&style=flat" alt="lukpoex" /> </p>
@@ -6,11 +6,6 @@
 - 💬 Ask me about **SPA frameworks (React, Vue.js, Angular, Next.js, Nuxt.js, etc) and Express.js / Django**
 
 - 📫 How to reach me **darkhorse941019@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/crazyreact" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="crazyreact" height="30" width="40" /></a>
-</p>
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
