@@ -229,26 +229,24 @@
 
 ## Github Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Crxlife&show_icons=true&&include_all_commits=true&count_private=true&theme=light&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Crxlife&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=darkhorse941019&show_icons=true&&include_all_commits=true&count_private=true&theme=light&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=darkhorse941019&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
   </a>
   
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Crxlife&column=7&theme=light"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=darkhorse941019&column=7&theme=light"/>
 </p>
 </p>
 </details>
 
 ## Contacts
 <div align="center"> 
-   <a href="mailto:darkhorse941019@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
-  &nbsp;&nbsp;
-
+  <a href="mailto:darkhorse941019@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+  &nbsp;
    <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://join.skype.com/invite/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://t.me/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
-  &nbsp;&nbsp;
- 
+  &nbsp;
 </div>
