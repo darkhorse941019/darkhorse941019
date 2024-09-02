@@ -242,11 +242,11 @@
 -->
 
 ## My HackerRank Certificates
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <div>
         <b>Software Engineer</b>
         <a href="https://www.hackerrank.com/certificates/a6ea21293320">
-            <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Software Engineer Certificate"/>
+            <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Software Engineer Certificate" />
         </a>
     </div>
     <div>
@@ -258,6 +258,12 @@
     <div>
         <b>Problem Solving</b>
         <a href="https://www.hackerrank.com/certificates/5917ef6ebe6a">
+            <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving Certificate"/>
+        </a>
+    </div>
+    <div>
+        <b>JavaScript</b>
+        <a href="https://www.hackerrank.com/certificates/b6c8372f3d1a">
             <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving Certificate"/>
         </a>
     </div>
