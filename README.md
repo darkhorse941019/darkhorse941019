@@ -241,12 +241,27 @@
 </details>
 -->
 
-## My Certificate
-
-### Software Engineer
-[![HackerRank Certificate](https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/a6ea21293320)
-### SQL Mastery
-[![HackerRank Certificate](https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/6bf29e1e2e84)
+## My HackerRank Certificates
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <div>
+        <b>Software Engineer</b>
+        <a href="https://www.hackerrank.com/certificates/a6ea21293320">
+            <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Software Engineer Certificate"/>
+        </a>
+    </div>
+    <div>
+        <b>SQL Mastery</b>
+        <a href="https://www.hackerrank.com/certificates/6bf29e1e2e84">
+            <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Mastery Certificate"/>
+        </a>
+    </div>
+    <div>
+        <b>Problem Solving</b>
+        <a href="https://www.hackerrank.com/certificates/5917ef6ebe6a">
+            <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving Certificate"/>
+        </a>
+    </div>
+</div>
 
 
 ## Contacts
