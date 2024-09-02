@@ -241,8 +241,8 @@
 </details>
 -->
 
-## My HackerRank Certificate
-![HackerRank Certificate]([https://i.imgur.com/your_image_link.png](https://www.hackerrank.com/certificates/iframe/a6ea21293320))
+## My Certificate
+[![HackerRank Certificate](https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/a6ea21293320)
 
 ## Contacts
 <div align="center"> 
