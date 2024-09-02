@@ -242,7 +242,8 @@
 -->
 
 ## My Certificate
-[![HackerRank Certificate](https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/a6ea21293320)
+[![HackerRank Certificate](https://img.shields.io/badge/Software Engineer-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/a6ea21293320)
+[![HackerRank Certificate](https://img.shields.io/badge/SQL Mastery-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/6bf29e1e2e84)
 
 ## Contacts
 <div align="center"> 
