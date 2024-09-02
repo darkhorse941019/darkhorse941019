@@ -267,6 +267,12 @@
             <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving Certificate"/>
         </a>
     </div>
+    <div>
+      <b>JavaScript</b>
+      <a href="https://www.hackerrank.com/certificates/5972dee878b8">
+          <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving Certificate"/>
+      </a>
+    </div>
 </div>
 
 
