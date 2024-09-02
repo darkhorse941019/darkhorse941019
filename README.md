@@ -241,6 +241,9 @@
 </details>
 -->
 
+## Certificates
+<a href="https://www.hackerrank.com/certificates/iframe/a6ea21293320" />
+
 ## Contacts
 <div align="center"> 
   <a href="mailto:darkhorse941019@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
