@@ -1,10 +1,7 @@
 <h1 align="center">Senior Full Stack Engineer</h1>
 <h3 align="center">Experienced web/mobile full-stack developer with a proven track record of delivering high-quality, scalable applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukpoex&label=Profile%20views&color=0e75b6&style=flat" alt="lukpoex" /> </p>
-
 - 💬 Ask me about **SPA frameworks (React, Vue.js, Angular, Next.js, Nuxt.js, etc) and Express.js / Django**
-- 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web and mobile applications
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
@@ -226,67 +223,6 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 <br><br>
-
-<!--
-## Github Stats
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=darkhorse941019&show_icons=true&&include_all_commits=true&count_private=true&theme=light&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=darkhorse941019&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
-  </a>
-  
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=darkhorse941019&column=7&theme=light"/>
-</p>
-</p>
-</details>
--->
-
-## My HackerRank Certificates
-<div style="display: flex; justify-content: center; align-items: center;">
-    <div>
-        <b>Software Engineer</b>
-        <a href="https://www.hackerrank.com/certificates/a6ea21293320">
-            <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Software Engineer Certificate" />
-        </a>
-    </div>
-    <div>
-        <b>SQL Mastery</b>
-        <a href="https://www.hackerrank.com/certificates/6bf29e1e2e84">
-            <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Mastery Certificate"/>
-        </a>
-    </div>
-    <div>
-        <b>Problem Solving</b>
-        <a href="https://www.hackerrank.com/certificates/5917ef6ebe6a">
-            <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving Certificate"/>
-        </a>
-    </div>
-    <div>
-        <b>JavaScript</b>
-        <a href="https://www.hackerrank.com/certificates/b6c8372f3d1a">
-            <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving Certificate"/>
-        </a>
-    </div>
-    <div>
-      <b>REST API</b>
-      <a href="https://www.hackerrank.com/certificates/5972dee878b8">
-          <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving Certificate"/>
-      </a>
-    </div>
-</div>
-
-
-## Contacts
-<div align="center"> 
-  <a href="mailto:darkhorse941019@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
-  &nbsp;
-   <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
-  &nbsp;
-  <a href="https://join.skype.com/invite/live:.cid.4adfce262c36469" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
-  &nbsp;
-  <a href="https://t.me/Crxlife" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
-  &nbsp;
-</div>
 
 ### ✍️ Dev qoutes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
