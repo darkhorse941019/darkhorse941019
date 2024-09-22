@@ -15,65 +15,65 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
       <br><b>Python</b>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
       <br><b>JavaScript</b>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
       <br><b>TypeScript</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="48" height="48" />
       <br><b>Go</b>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
       <br><b>C++</b>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="48" height="48" />
       <br><b>C#</b>
     </td>
     <td align="center"  width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="65" height="65" alt="Java" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       <br><b>Java</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br><b>PHP</b>
     </td>
     <td align="center" width="96"> 
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br><b>Git</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
       <br><b>React</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
       <br><b>Vue</b>
     </td>
     <td align="center" width="96">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="65" height="65" alt="Angular" />
+      <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="48" height="48" alt="Angular" />
       <br><b>Angular</b>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48" />
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="65" height="65" alt=".NET" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="48" height="48" alt=".NET" />
       <br><b>.NET</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="65" height="65" alt=".NET Core" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Core" />
       <br><b>.NET Core</b>
     </td>
     <td align="center" width="96">
@@ -91,45 +91,45 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://reactnative.dev/img/header_logo.svg" width="65" height="65" alt="React Native" />
+      <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" />
       <br><b>React Native</b>
     </td>
     <td align="center"  width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="65" height="65" alt="Material UI"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI"/>
       <br><b>Material UI</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" width="65" height="65" alt="AntDesign" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" width="48" height="48" alt="AntDesign" />
       <br><b>Ant Design</b>
     </td>
     <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br><b>Laravel</b>
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="65" height="65" alt="Flutter" />
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="Flutter" />
       <br><b>Flutter</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br><b>CSS</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br><b>Tailwind CSS</b>
     </td>
     <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br><b>Bootstrap</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jquery" width="65" height="65" alt="jQuery" />
+      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       <br><b>jQuery</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" width="65" height="65" alt="Backbone.js" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" width="48" height="48" alt="Backbone.js" />
       <br><b>Backbone.js</b>
     </td>
     <td align="center" width="96">
@@ -137,41 +137,41 @@
       <br><b>Express.js</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="GraphQL" />
+      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
       <br><b>GraphQL</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="65" height="65" alt="GraphQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="GraphQL" />
       <br><b>Nest.js</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="65" height="65" alt="GraphQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" height="48" alt="GraphQL" />
       <br><b>Spring</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="65" height="65" alt="Electron.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="48" height="48" alt="Electron.js" />
       <br><b>Electron.js</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" width="65" height="65" alt="Webpack" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" />
       <br><b>Webpack</b>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
       <br><b>MySQL</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br><b>PostgreSQL</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br><b>MongoDB</b>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="65" height="65" alt="Redis" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" height="48" alt="Redis" />
       <br><b>Redis</b>
     </td>
     <td align="center" width="96">
@@ -179,19 +179,19 @@
       <br><b>Firebase</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="Sqlite" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="Sqlite" width="48" height="48" />
       <br><b>Sqlite</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" width="48" height="48" />
       <br><b>MS SQL Server</b>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
       <br><b>AWS</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure" width="48" height="48" />
       <br><b>Microsoft Azure</b>
     </td>
     <td align="center" width="96">
@@ -199,7 +199,7 @@
       <br><b>Heroku</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" width="48" height="48" />
       <br><b>Vercel</b>
     </td>
   </tr>
