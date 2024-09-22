@@ -128,25 +128,47 @@
     </td>
   </tr>
   <tr>
-    <!--
-  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
-  ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white)
-  ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white)
-  ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white)
-  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white)
-    -->
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" width="48" height="48" alt="Nodejs" />
-      <br>Backbone.js
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" width="65" height="65" alt="Backbone.js" />
+      <br><b>Backbone.js</b>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" height="48" alt="PHP" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="WordPress" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express.js" />
       <br><b>Express.js</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="GraphQL" />
+      <br><b>GraphQL</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="65" height="65" alt="GraphQL" />
+      <br><b>Nest.js</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="65" height="65" alt="GraphQL" />
+      <br><b>Spring</b>
+    </td>
+    <td align="center" width="96">
+      <img src="" width="65" height="65" alt="" />
+      <br><b></b>
+    </td>
+    <td align="center" width="96">
+      <img src="" width="65" height="65" alt="" />
+      <br><b></b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="65" height="65" alt="Electron.js" />
+      <br><b>Electron.js</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" width="65" height="65" alt="Webpack" />
+      <br><b>Webpack</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="65" height="65" alt="PHP" />
+      <br>Redis
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Sass" />
@@ -156,8 +178,6 @@
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="MySQL" />
       <br><b>Heroku</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
@@ -178,10 +198,6 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
       <br>Sass
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
