@@ -5,8 +5,7 @@
 
 - 💬 Ask me about **SPA frameworks (React, Vue.js, Angular, Next.js, Nuxt.js, etc) and Express.js / Django**
 - 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web and mobile applications
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.
+- 👍 Experienced in DevOps, and Cloud infrastructure, especially with AWS and Azure
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
 - 📫 How to reach me **darkhorse941019@gmail.com**
 
@@ -256,7 +255,7 @@
 <div align="center"> 
   <a href="mailto:darkhorse941019@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
   &nbsp;
-   <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
+   <a href="https://www.linkedin.com/in/spirited-challenger-384bbb32a/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
   &nbsp;
   <a href="https://join.skype.com/invite/live:.cid.4adfce262c36469" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
   &nbsp;
