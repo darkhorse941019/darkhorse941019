@@ -180,26 +180,26 @@
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="Sqlite" width="65" height="65" />
-      <br>Sqlite
+      <br><b>Sqlite</b>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" width="65" height="65" />
-      <br><b>Microsoft SQL Server</b>
+      <br><b>MS SQL Server</b>
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      <br>AWS
+      <br><b>AWS</b>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="Microsoft Azure" width="65" height="65" />
-      <br>Microsoft Azure
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure" width="65" height="65" />
+      <br><b>Microsoft Azure</b>
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="Heroku" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" width="48" height="48" alt="Heroku" />
       <br><b>Heroku</b>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="Vercel" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" width="65" height="65" />
       <br><b>Vercel</b>
     </td>
   </tr>
