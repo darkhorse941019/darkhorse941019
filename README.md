@@ -77,10 +77,6 @@
       <br><b>.NET Core</b>
     </td>
     <td align="center" width="96">
-      <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" />
-      <br><b>React Native</b>
-    </td>    
-    <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" />
       <br><b>Next.js</b>
     </td>
@@ -92,100 +88,111 @@
       <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxt.js" />
       <br><b>Nuxt.js</b>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://reactnative.dev/img/header_logo.svg" width="65" height="65" alt="React Native" />
+      <br><b>React Native</b>
+    </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="65" height="65" alt="Material UI"/>
+      <br><b>Material UI</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" width="65" height="65" alt="AntDesign" />
+      <br><b>Ant Design</b>
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
       <br><b>Laravel</b>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="65" height="65" alt="Flutter" />
+      <br><b>Flutter</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+      <br><b>CSS</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
+      <br><b>Tailwind CSS</b>
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <br><b>Bootstrap</b>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br><b>Tailwind</b>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
+      <img src="https://skillicons.dev/icons?i=jquery" width="65" height="65" alt="jQuery" />
+      <br><b>jQuery</b>
     </td>
   </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+  <tr>
+    <!--
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+  ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white)
+  ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white)
+  ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white)
+  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white)
+    -->
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" width="48" height="48" alt="Nodejs" />
+      <br>Backbone.js
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="WordPress" />
-      <br>Flutter
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" height="48" alt="PHP" />
+      <br>Redis
     </td>
-              
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="WordPress" />
+      <br><b>Express.js</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Sass" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="MySQL" />
+      <br><b>Heroku</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>  
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
       <br>Sass
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
       <br>GraphQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
- </tr>
-  <tr>
-    </td>
-        <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" width="48" height="48" alt="Nodejs" />
-      <br>Backbone.js
-      </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" height="48" alt="PHP" />
-      <br>Redis
-    </td>
-
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="WordPress" />
-      <br><b>Express.js</b>
-    </td>
-              <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Sass" />
-      <br>Firebase
-    </td>
-              <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="MySQL" />
-      <br><b>Heroku</b>
-    </td>
- </tr>
+  </tr>
 </table>
   
 #### 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white
