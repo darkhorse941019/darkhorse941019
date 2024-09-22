@@ -39,37 +39,58 @@
       <br><b>C#</b>
     </td>
     <td align="center"  width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="65" height="65" alt="Java" />
       <br><b>Java</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
       <br><b>PHP</b>
     </td>
     <td align="center" width="96"> 
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
       <br><b>Git</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br><b>React</b>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
+      <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
+      <br><b>Vue</b>
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+      <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="65" height="65" alt="Angular" />
+      <br><b>Angular</b>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-    <br>Django
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+      <br>Django
+    </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="65" height="65" alt=".NET" />
+      <br><b>.NET</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="65" height="65" alt=".NET Core" />
+      <br><b>.NET Core</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" />
+      <br><b>React Native</b>
+    </td>    
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" />
+      <br><b>Next.js</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br><b>Node.js</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxt.js" />
+      <br><b>Nuxt.js</b>
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
@@ -97,21 +118,23 @@
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br><b>Nodejs</b>
-      </td>
-            <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="VsCode" />
-      <br><b>Nuxt.js</b>
-    </td>
-              <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="WordPress" />
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="WordPress" />
       <br>Flutter
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br><b>Vue</b>
+              
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
@@ -127,9 +150,6 @@
     </td>
  </tr>
   <tr>
-      <td align="center" width="96">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="48" height="48" alt="Angular" />
-      <br>Angular
     </td>
         <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" width="48" height="48" alt="Nodejs" />
@@ -139,17 +159,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" height="48" alt="PHP" />
       <br>Redis
     </td>
-            <td align="center" width="96">
-        <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="VsCode" />
-      <br>React Native
-    </td>
-              <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="WordPress" />
+
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="WordPress" />
       <br><b>Express.js</b>
-    </td>
-              <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="48" height="48" alt="Vue" />
-      <br>.NET
     </td>
               <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Sass" />
@@ -158,10 +171,6 @@
               <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="MySQL" />
       <br><b>Heroku</b>
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="PostgreSQL" />
-      <br><b>Next.js</b>
     </td>
  </tr>
 </table>
