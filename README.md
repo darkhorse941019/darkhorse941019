@@ -255,12 +255,13 @@
 <div align="center"> 
   <a href="mailto:darkhorse941019@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
   &nbsp;
-   <a href="https://www.linkedin.com/in/spirited-challenger-384bbb32a/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
+   <a href="https://www.linkedin.com/in/leonard-sim-384bbb32a/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
   &nbsp;
   <a href="https://join.skype.com/invite/live:.cid.4adfce262c36469" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
   &nbsp;
   <a href="https://t.me/Crxlife" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;
+  <a href="https://www.instagram.com/darkhorse941019" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/instagram-app.png"  width="40" /></a>
 </div>
 
 ### ✍️ Dev qoutes
