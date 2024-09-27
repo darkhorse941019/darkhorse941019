@@ -261,7 +261,6 @@
   &nbsp;
   <a href="https://t.me/Crxlife" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;
-  <a href="https://www.instagram.com/darkhorse941019" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/instagram-app.png"  width="40" /></a>
 </div>
 
 ### ✍️ Dev qoutes
