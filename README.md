@@ -240,13 +240,13 @@
 
 ## Github Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=darkhorse941019&hide_title=true&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=light&line_height=27">
+<!--   <img src = "https://github-readme-stats.vercel.app/api?username=darkhorse941019&hide_title=true&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=light&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=darkhorse941019&hide=html&hide_title=true&hide_border=true&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
   
   <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=darkhorse941019&column=7&theme=light"/>
   </p>
-</p>
+</p> -->
 
 ## Contacts
 <div align="center"> 
