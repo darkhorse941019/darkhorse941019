@@ -204,17 +204,7 @@
   </tr>
 </table>
   
-## Github Stats
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=darkhorse941019&show_icons=true&&include_all_commits=true&count_private=true&theme=light&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=darkhorse941019&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
-  </a>
-  
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=darkhorse941019&column=7&theme=light"/>
-</p>
-</p>
-</details>
+
 
 ## My HackerRank Certificates
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -259,7 +249,7 @@
   &nbsp;
   <a href="https://join.skype.com/invite/live:.cid.4adfce262c36469" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
   &nbsp;
-  <a href="https://t.me/Crxlife" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+  <a href="https://t.me/crxlife94" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;
 </div>
 
