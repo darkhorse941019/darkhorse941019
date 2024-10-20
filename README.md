@@ -238,15 +238,14 @@
     </div>
 </div>
 
-## Github Stats
-<p align = "center">
-<!--   <img src = "https://github-readme-stats.vercel.app/api?username=darkhorse941019&hide_title=true&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=light&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=darkhorse941019&hide=html&hide_title=true&hide_border=true&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
-  
-  <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=darkhorse941019&column=7&theme=light"/>
-  </p>
-</p> -->
+🏆 GitHub Statistics
+<p align="center">
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=lukpoex&hide_border=true" />
+</p>
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lukpoex&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukpoex&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
+</p>
 
 ## Contacts
 <div align="center"> 
