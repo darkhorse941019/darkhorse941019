@@ -205,44 +205,46 @@
 </table>
   
 ## My HackerRank Certificates
-<div style="display: flex; justify-content: center; align-items: center;">
-    <div>
-        <b>Software Engineer</b>
-        <a href="https://www.hackerrank.com/certificates/a6ea21293320">
-            <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Software Engineer Certificate" />
-        </a>
-    </div>
-    <div>
-        <b>SQL Mastery</b>
-        <a href="https://www.hackerrank.com/certificates/6bf29e1e2e84">
-            <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Mastery Certificate"/>
-        </a>
-    </div>
-    <div>
-        <b>Problem Solving</b>
-        <a href="https://www.hackerrank.com/certificates/5917ef6ebe6a">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+    <div className="flex-1">
+      <div>
+          <b>Software Engineer</b>
+          <a href="https://www.hackerrank.com/certificates/a6ea21293320">
+              <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Software Engineer Certificate" />
+          </a>
+      </div>
+      <div>
+          <b>SQL Mastery</b>
+          <a href="https://www.hackerrank.com/certificates/6bf29e1e2e84">
+              <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Mastery Certificate"/>
+          </a>
+      </div>
+      <div>
+          <b>Problem Solving</b>
+          <a href="https://www.hackerrank.com/certificates/5917ef6ebe6a">
+              <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving Certificate"/>
+          </a>
+      </div>
+      <div>
+          <b>JavaScript</b>
+          <a href="https://www.hackerrank.com/certificates/b6c8372f3d1a">
+              <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving Certificate"/>
+          </a>
+      </div>
+      <div>
+        <b>REST API</b>
+        <a href="https://www.hackerrank.com/certificates/5972dee878b8">
             <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving Certificate"/>
         </a>
+      </div>
     </div>
-    <div>
-        <b>JavaScript</b>
-        <a href="https://www.hackerrank.com/certificates/b6c8372f3d1a">
-            <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving Certificate"/>
-        </a>
-    </div>
-    <div>
-      <b>REST API</b>
-      <a href="https://www.hackerrank.com/certificates/5972dee878b8">
-          <img src="https://img.shields.io/badge/View_Certificate-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving Certificate"/>
-      </a>
+    <div className="flex-1">
+      🏆 GitHub Statistics
+      <p align="center">
+        <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkhorse941019&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
+      </p>
     </div>
 </div>
-
-🏆 GitHub Statistics
-<p align="center">
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=darkhorse941019&hide_border=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkhorse941019&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
-</p>
 
 ## Contacts
 <div align="center"> 
